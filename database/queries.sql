@@ -1,0 +1,1 @@
+SELECT hall, roomNumber FROM machine WHERE hall = "Seward";
